@@ -1,9 +1,3 @@
 
 
 # Food-E-commerce-website
-
-
-
-
-
-
